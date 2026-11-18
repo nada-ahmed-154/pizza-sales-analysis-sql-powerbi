@@ -7,7 +7,7 @@
 
 An end-to-end data analytics project analyzing pizza sales data using **SQL Server** and visualizing the results in an interactive **Power BI** dashboard to uncover customer ordering patterns, peak demand periods, and product performance.
 
-![Pizza Sales Dashboard Preview](images/dashboard.png)
+![Pizza Sales Dashboard Preview](pizza-sales.png)
 
 ---
 
